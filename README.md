@@ -1,2 +1,7 @@
 # hello-world
-just another repository
+
+chef here!
+
+from fire to wires.
+from plate to monitor.
+from a knife to a keybored
