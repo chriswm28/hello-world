@@ -1,0 +1,13 @@
+.Vagrant
+/cookbooks
+
+# bundler
+.bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
+
+.pictures
+/images
+
